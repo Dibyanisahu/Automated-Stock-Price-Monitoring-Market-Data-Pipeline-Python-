@@ -1,4 +1,4 @@
-🧭 ** Stock Market Price Tracker using Python **
+🧭 **Stock Market Price Tracker using Python**
 
 A Python-based real-time stock tracker that fetches live and historical prices from Yahoo Finance, while intelligently accounting for Indian stock market hours (BSE/NSE), weekends, and public holidays.
 

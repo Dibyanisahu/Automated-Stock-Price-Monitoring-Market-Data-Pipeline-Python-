@@ -1,8 +1,3 @@
-# Automated Stock Price Monitoring Market Data Pipeline Python
-A Python-based Stock Price Tracker that fetches live and historical market data from Yahoo Finance, dynamically adjusts for market hours and holidays, and provides real-time insights for NSE/BSE stocks like Zomato and TVSMOTOR.
-
-
-
 🧭 **Python Stock Market Price Tracker**
 
 A Python-based real-time stock tracker that fetches live and historical prices from Yahoo Finance, while intelligently accounting for Indian stock market hours (BSE/NSE), weekends, and public holidays.

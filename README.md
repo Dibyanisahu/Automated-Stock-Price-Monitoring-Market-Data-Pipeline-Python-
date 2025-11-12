@@ -63,6 +63,11 @@ Adjusts requests outside market hours to the next valid trading session.
 
 **💻 Installation**
 # Clone the repository
+On Windows: open Git Bash (installed with Git).
+On macOS/Linux: open Terminal.
+
+Clone command:
+git clone https://github.com/Dibyanisahu/Automated-Stock-Price-Monitoring-Market-Data-Pipeline-Python-.git
 
 
 

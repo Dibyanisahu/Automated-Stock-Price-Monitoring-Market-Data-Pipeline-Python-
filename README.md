@@ -116,10 +116,15 @@ Monitor market performance of specific companies.
 **📊 Future Enhancements**
 
 🔹 Add price alerts via email or Telegram.
+
 🔹 Integrate with Google Sheets API for daily logs.
+
 🔹 Add portfolio tracking and visualization.
+
 
 **👤 Author**
 
-Dibyani Sahu
+Dibyani Sahu,
 Data Scientist passionate about building practical Python automation tools for analytics and financial insights.
+
+Contact: [Linkedin](https://www.linkedin.com/in/dibyanisahu/)

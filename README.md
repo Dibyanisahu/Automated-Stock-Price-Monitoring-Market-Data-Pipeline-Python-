@@ -2,6 +2,8 @@
 
 A Python-based real-time stock tracker that fetches live and historical prices from Yahoo Finance, while intelligently accounting for Indian stock market hours (BSE/NSE), weekends, and public holidays.
 
+![Alt Text for Image](/Users/divi/workspace/GitHub/Projects/StockPrice_tracker/zr81hdsyfwjkgqcfsbbm.jpg)
+
 This project automates stock price fetching at user-defined times and intervals, making it a valuable tool for data analysts, investors, and finance enthusiasts who want to monitor price trends or integrate data into analytics dashboards.
 
 
